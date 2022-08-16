@@ -1,5 +1,9 @@
 package ph.edu.dlsu.lbycpei.artistrysample;
 
+// Author: MKC-Cobalt
+// Date created: Aug-17-2022
+// Last modified: Aug-17-2022
+
 import javafx.application.Application;
 import javafx.scene.Group;
 import javafx.scene.Node;
